@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface Enemy {
+public interface Enemy {
+    void information();
+    void start();
+    void attack();
 }
